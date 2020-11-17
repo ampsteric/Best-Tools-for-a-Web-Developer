@@ -18,5 +18,10 @@
 | https://lukaszadam.com/illustrations           | Free illustrations..                  |
 | https://ikonate.com/                           | Library of icons.                     |
 | https://illlustrations.co/                     | Free illustrations up for grabs       |
+| https://nostalgic-css.github.io/NES.css/       | Give Game effects to your website     |
+| https://shorthandcss.com/                      | Feature rich CSS framework            |
+| https://mdbootstrap.github.io/bootstrap-material-design/                                  | Material Design for Bootstrap       |
+| https://semantic-ui.com/                       |User Interface is the language of the web                                       |
+
 
 # Please ⭐ the repository if you appreciate my hardwork and commitment for the developer community.
